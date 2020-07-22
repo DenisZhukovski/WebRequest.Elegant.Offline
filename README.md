@@ -1,1 +1,1 @@
-# WebRequest.Elegant.Offline
+# WebRequest.Elegant.Offline.Extension
